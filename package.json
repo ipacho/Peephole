@@ -1,0 +1,22 @@
+{
+  "name": "peephole",
+  "version": "1.0.0",
+  "description": "wonderfull html5 video player for anime",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ipacho/Peephole.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ipacho/Peephole/issues"
+  },
+  "homepage": "https://github.com/ipacho/Peephole#readme",
+  "devDependencies": {
+    "webpack": "^3.3.0"
+  }
+}
